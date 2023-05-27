@@ -6,5 +6,16 @@ Ce projet avait pour but de participer à la compétition SUMOBOT 2021, cependan
 
 Avec une autre équipe nous sommes affronté à la fin de l'année en remplacement pour faire une mini-compétition entre nous. 
 
+Nous sommes parti d'un kit sumobot défectueux...
+
+![IMG_20210122_112408](https://github.com/DNeoTeo/SUMOBOT_2021/assets/48857676/33f19020-8f23-4cf5-a403-bf4ae2015828)
+
+Et nous sommes reparti de zéro et nous avons réussi à construire le robot de A à Z pour enfin gagner face à nos confrère.
+
+![WhatsApp Image 2021-06-13 at 22 39 24 (2)](https://github.com/DNeoTeo/SUMOBOT_2021/assets/48857676/186667aa-e207-4be7-9205-e56dc9d807c9)
+
+![IMG-20210611-WA0002](https://github.com/DNeoTeo/SUMOBOT_2021/assets/48857676/a673977e-3ac3-4319-af9c-7666caf18379)
+
+Pour plus de détail un rapport complet sous format PDF ([ici](https://github.com/DNeoTeo/SUMOBOT_2021/SUMOBOT_RAPPORT.pdf))
 
 
